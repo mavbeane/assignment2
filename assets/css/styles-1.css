@@ -40,7 +40,9 @@ a:focus{
 	color: #89949C;
 	text-decoration: none;
 }
-
+.profile {
+	margin-bottom: 20px;
+}
 .lead{
 	margin-bottom: 30px;
 	font-size: 28px;
@@ -1620,7 +1622,7 @@ hr{
 	}
 
 	#home .row{
-		top:25%;
+		top:35%;
 	}
 	
 	.skills .plus-symbol:after,
